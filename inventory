@@ -1,1 +1,1 @@
-193.122.51.102
+193.122.51.102     ansible_connection=ssh        ansible_user=ubuntu
