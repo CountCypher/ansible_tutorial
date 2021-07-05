@@ -1,1 +1,2 @@
 193.122.51.102     ansible_connection=ssh        ansible_user=ubuntu
+152.70.174.102     ansible_connection=ssh        ansible_user=opc
