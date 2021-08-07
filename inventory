@@ -1,2 +1,2 @@
-193.122.51.102     ansible_connection=ssh        ansible_user=ubuntu
-152.70.174.102     ansible_connection=ssh        ansible_user=opc
+130.61.91.126 apache_package=apache2 php_package=libapache2-mod-php    ansible_connection=ssh        ansible_user=ubuntu
+152.70.174.102 apache_package=httpd php_package=php    ansible_connection=ssh        ansible_user=opc
