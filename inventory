@@ -1,2 +1,8 @@
+[web_servers]
 130.61.91.126     ansible_connection=ssh        ansible_user=ubuntu
 152.70.174.102    ansible_connection=ssh        ansible_user=opc
+[db_servers]
+130.61.91.126     ansible_connection=ssh        ansible_user=ubuntu
+[file_servers]
+152.70.174.102    ansible_connection=ssh        ansible_user=opc
+
